@@ -1,4 +1,6 @@
 # Зачёт
+Задания выполнить для любого датасета из списка
+https://github.com/artamonoff/Econometrica/tree/master/python-notebooks/data-csv
 | Задание   | <!-- -->        | 
 |:-------------|:---------------:|
 |  Выгрузить данные и создайте DataFrame. Выведите на экран данные DataFrame.         |   0/5     |
